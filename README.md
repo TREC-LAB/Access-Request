@@ -1,5 +1,5 @@
 # Hello-world
-Welcome, everyone; This repo is used for requesting access to this workplace; Please see issues for details. 
+Welcome, everyone!
 
 Please see issues 1. 
 
